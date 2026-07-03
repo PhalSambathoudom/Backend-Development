@@ -1,0 +1,13 @@
+{
+  "name": "ex1-week2",
+  "version": "1.0.0",
+  "description": "Refactored Week 2 exercises to Express.js",
+  "main": "W2-Ex2/server.js",
+  "scripts": {
+    "start:ex2": "node W2-Ex2/server.js",
+    "start:ex3": "node W2-Ex3/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
